@@ -85,3 +85,15 @@ body {
         font-size: 38px;
     }
 }
+
+.title{
+    background-color: rgba(0, 0, 0, 0.537);
+    color: white;
+    width: 250px;
+    padding: 10px;
+    position: relative;
+    top: 130px;
+    left: 620px;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 3, 0.511);
+}
